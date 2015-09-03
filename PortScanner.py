@@ -5,8 +5,8 @@ from threading import *
 
 
 print '\t\t\t ######################################'
-print '\t\t\t ##    Proudly Made By An INDIAN     ##'
-print '\t\t\t ##   Author : Rohit Saxsena INDIA   ##'
+print '\t\t\t ##                                  ##'
+print '\t\t\t ##   Author : Sandeep Saini         ##'
 print '\t\t\t ######################################'
 
 
